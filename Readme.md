@@ -7,6 +7,10 @@ This project implements a Next Word Prediction model using Natural Language Proc
 The pipeline includes text preprocessing, tokenization, sequence generation, padding, one-hot encoding, and training an LSTM-based neural network using TensorFlow/Keras.
 
 ---
+ ## Screenshots
+<img width="1027" height="567" alt="image" src="https://github.com/user-attachments/assets/307c9be4-e52a-448e-81d4-a1d12245950d" />
+
+---
 
 ## Dataset
 
